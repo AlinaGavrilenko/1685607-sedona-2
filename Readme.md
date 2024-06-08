@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Алина Гавриленко](https://up.htmlacademy.ru/htmlcss-individual/2/user/1685607).
-* Наставник: `Неизвестно`.
+- Студент: [Алина Гавриленко](https://up.htmlacademy.ru/htmlcss-individual/2/user/1685607).
+- Наставник: [Ирина Малиновская] (https://htmlacademy.ru/profile/irina-malinovskaya)
 
 ---
 
